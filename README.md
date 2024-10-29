@@ -1,7 +1,7 @@
-#Proyecto Aprendizaje Automático
+# Proyecto Aprendizaje Automático
 ==============================
 
-**##Objetivo del Proyecto**
+**## Objetivo del Proyecto**
 
 El objetivo del proyecto es desarrollar un modelo de aprendizaje automático que
 identifique patrones en las causas de los incendios forestales y las áreas afectadas en la
@@ -10,7 +10,7 @@ incendios forestales en función de variables específicas, como el tipo de vege
 causas reportadas Esta información será útil para diseñar estrategias preventivas y de
 manejo más efectivas, optimizando los recursos destinados a la protección ambiental.
 
-**##Contexto del Problema**
+ **## Contexto del Problema**
 
 Tierra del Fuego es una región de gran valor ecológico y cultural, con ecosistemas frágiles
 y biodiversidad única. Sin embargo, en las últimas décadas, se ha observado un aumento
@@ -27,20 +27,29 @@ prevenir futuros incendios.
 El desarrollo de un modelo predictivo es fundamental para apoyar la gestión sostenible
 del territorio y la protección del patrimonio natural en Tierra del Fuego.
 Para guiar este proyecto, he definido las siguientes preguntas de investigación:
+
 -¿Qué causas (naturales o humanas) se asocian con mayor frecuencia a los incendios forestales en la provincia de Tierra del Fuego? ¿Qué porcentaje de incendios forestales en TDF se atribuye a actividades humanas?
+
 -Cuáles son los meses del año con mayor incidencia de incendios forestales en TDF?
+
 -¿La cantidad de incendios forestales ha aumentado o disminuido en las dos últimas décadas?
+
 -¿Cuáles son los tipos de vegetación más vulnerables a ser afectados por
 incendios?
+
 -¿Es posible predecir la ocurrencia de incendios forestales utilizando variables temporales y ambientales?
 -¿Qué modelo de aprendizaje automático (Random Forest, SVM, o redes neuronales) tiene mejor desempeño al predecir la extensión de áreas afectadas (bosque nativo, pastizal, etc.)?
+
 -¿Cuáles son los factores más importantes que influyen en la ocurrencia de incendios intencionales en la región?
+
 -¿Es posible predecir la causa de un incendio (negligencia, intencionalidad, natural) en función de variables como el mes y tipo de cobertura vegetal?
+
 -¿Qué tan precisos son los modelos predictivos al estimar la extensión total de hectáreas afectadas por cada tipo de vegetación?
 
-##**Descripción del dataset y origen** 
 
-###Estructura del Dataset
+**## Descripción del dataset y origen** 
+
+### Estructura del Dataset
 
 El dataset contiene 252 filas, cada una representando un registro mensual de incendios forestales en Tierra del Fuego entre los años 2002 y 2022. A continuación, se describen las columnas:
 Año: Año en el que se registraron los incendios forestales (Numérico)
@@ -55,7 +64,7 @@ Intencional (%): Porcentaje de incendios causados por negligencia (Numérico)
 Natural (%): Porcentaje de incendios atribuidos a causas naturales (Numérico)
 Desconocida (%): Porcentaje de incendios sin causa identificada (Numérico)
 
-**###Descripción**: Al elegir el tema del proyecto, el único dataset que encontré en la web registraba todos los datos anuales por lo que, para hacerlo mas completo, me tomé el trabajo de hacer un nuevo dataset de registro mensual compilando datos que se encuentran en [argentina.gob.ar/ambiente](https://www.argentina.gob.ar/ambiente/bosques/estadistica-forestal)
+**### Descripción**: Al elegir el tema del proyecto, el único dataset que encontré en la web registraba todos los datos anuales por lo que, para hacerlo mas completo, me tomé el trabajo de hacer un nuevo dataset de registro mensual compilando datos que se encuentran en [argentina.gob.ar/ambiente](https://www.argentina.gob.ar/ambiente/bosques/estadistica-forestal)
 
 Project Organization
 ------------
