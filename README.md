@@ -56,16 +56,27 @@ incendios?
 ### Estructura del Dataset
 
 El dataset contiene 252 filas, cada una representando un registro mensual de incendios forestales en Tierra del Fuego entre los años 2002 y 2022. A continuación, se describen las columnas:
+
 Año: Año en el que se registraron los incendios forestales (Numérico)
+
 Mes: Mes del año correspondiente al registro (Categórico)
+
 Cantidad: Total de incendios ocurridos en ese mes y año (Numérico)
+
 Bosque nativo (has): Superficie en hectáreas de bosque nativo afectada por incendios (Numérico)
+
 Bosque cultivado (has): Superficie en hectáreas de bosques cultivados afectada (Numérico)
+
 Arbustal (has): Superficie de arbustos afectada en hectáreas (Numérico)
+
 Pastizal (has): Superficie de pastizales afectadas en hectáreas (Numérico)
+
 Negligencia (%): Porcentaje de incendios causados por negligencia (Numérico)
+
 Intencional (%): Porcentaje de incendios causados por negligencia (Numérico)
+
 Natural (%): Porcentaje de incendios atribuidos a causas naturales (Numérico)
+
 Desconocida (%): Porcentaje de incendios sin causa identificada (Numérico)
 
 ### Descripción: 
