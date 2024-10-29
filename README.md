@@ -40,7 +40,7 @@ Para guiar este proyecto, he definido las siguientes preguntas de investigación
 incendios?
 
 -¿Es posible predecir la ocurrencia de incendios forestales utilizando variables temporales y ambientales?
--¿Qué modelo de aprendizaje automático (Random Forest, SVM, o redes neuronales) tiene mejor desempeño al predecir la extensión de áreas afectadas (bosque nativo, pastizal, etc.)?
+-¿Qué modelo de aprendizaje automático tiene mejor desempeño al predecir la extensión de áreas afectadas (bosque nativo, pastizal, etc.)?
 
 -¿Cuáles son los factores más importantes que influyen en la ocurrencia de incendios intencionales en la región?
 
