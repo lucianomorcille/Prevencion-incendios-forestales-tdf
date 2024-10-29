@@ -57,27 +57,27 @@ incendios?
 
 El dataset contiene 252 filas, cada una representando un registro mensual de incendios forestales en Tierra del Fuego entre los años 2002 y 2022. A continuación, se describen las columnas:
 
-Año: Año en el que se registraron los incendios forestales (Numérico)
+*Año*: Año en el que se registraron los incendios forestales (Numérico)
 
-Mes: Mes del año correspondiente al registro (Categórico)
+*Mes*: Mes del año correspondiente al registro (Categórico)
 
-Cantidad: Total de incendios ocurridos en ese mes y año (Numérico)
+*Cantidad*: Total de incendios ocurridos en ese mes y año (Numérico)
 
-Bosque nativo (has): Superficie en hectáreas de bosque nativo afectada por incendios (Numérico)
+*Bosque nativo (has)*: Superficie en hectáreas de bosque nativo afectada por incendios (Numérico)
 
-Bosque cultivado (has): Superficie en hectáreas de bosques cultivados afectada (Numérico)
+*Bosque cultivado (has)*: Superficie en hectáreas de bosques cultivados afectada (Numérico)
 
-Arbustal (has): Superficie de arbustos afectada en hectáreas (Numérico)
+*Arbustal (has)*: Superficie de arbustos afectada en hectáreas (Numérico)
 
-Pastizal (has): Superficie de pastizales afectadas en hectáreas (Numérico)
+*Pastizal (has)*: Superficie de pastizales afectadas en hectáreas (Numérico)
 
-Negligencia (%): Porcentaje de incendios causados por negligencia (Numérico)
+*Negligencia (%)*: Porcentaje de incendios causados por negligencia (Numérico)
 
-Intencional (%): Porcentaje de incendios causados por negligencia (Numérico)
+*Intencional (%)*: Porcentaje de incendios causados por negligencia (Numérico)
 
-Natural (%): Porcentaje de incendios atribuidos a causas naturales (Numérico)
+*Natural (%)*: Porcentaje de incendios atribuidos a causas naturales (Numérico)
 
-Desconocida (%): Porcentaje de incendios sin causa identificada (Numérico)
+*Desconocida (%)*: Porcentaje de incendios sin causa identificada (Numérico)
 
 ### Descripción: 
 Al elegir el tema del proyecto, el único dataset que encontré en la web registraba todos los datos anuales por lo que, para hacerlo mas completo, me tomé el trabajo de hacer un nuevo dataset de registro mensual compilando datos que se encuentran en [argentina.gob.ar/ambiente](https://www.argentina.gob.ar/ambiente/bosques/estadistica-forestal)
