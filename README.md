@@ -2,6 +2,7 @@
 ==============================
 
 **##Objetivo del Proyecto**
+
 El objetivo del proyecto es desarrollar un modelo de aprendizaje automático que
 identifique patrones en las causas de los incendios forestales y las áreas afectadas en la
 provincia de Tierra del Fuego. Con este modelo, se busca predecir la probabilidad de
@@ -10,6 +11,7 @@ causas reportadas Esta información será útil para diseñar estrategias preven
 manejo más efectivas, optimizando los recursos destinados a la protección ambiental.
 
 **##Contexto del Problema**
+
 Tierra del Fuego es una región de gran valor ecológico y cultural, con ecosistemas frágiles
 y biodiversidad única. Sin embargo, en las últimas décadas, se ha observado un aumento
 significativo en la frecuencia e intensidad de los incendios forestales. Estos eventos no
@@ -37,7 +39,9 @@ incendios?
 -¿Qué tan precisos son los modelos predictivos al estimar la extensión total de hectáreas afectadas por cada tipo de vegetación?
 
 ##**Descripción del dataset y origen** 
+
 ###Estructura del Dataset
+
 El dataset contiene 252 filas, cada una representando un registro mensual de incendios forestales en Tierra del Fuego entre los años 2002 y 2022. A continuación, se describen las columnas:
 Año: Año en el que se registraron los incendios forestales (Numérico)
 Mes: Mes del año correspondiente al registro (Categórico)
