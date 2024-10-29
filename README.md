@@ -1,7 +1,7 @@
 # Proyecto Aprendizaje Automático
 ==============================
 
-**## Objetivo del Proyecto**
+## Objetivo del Proyecto
 
 El objetivo del proyecto es desarrollar un modelo de aprendizaje automático que
 identifique patrones en las causas de los incendios forestales y las áreas afectadas en la
@@ -10,7 +10,7 @@ incendios forestales en función de variables específicas, como el tipo de vege
 causas reportadas Esta información será útil para diseñar estrategias preventivas y de
 manejo más efectivas, optimizando los recursos destinados a la protección ambiental.
 
- **## Contexto del Problema**
+ ## Contexto del Problema
 
 Tierra del Fuego es una región de gran valor ecológico y cultural, con ecosistemas frágiles
 y biodiversidad única. Sin embargo, en las últimas décadas, se ha observado un aumento
@@ -47,7 +47,7 @@ incendios?
 -¿Qué tan precisos son los modelos predictivos al estimar la extensión total de hectáreas afectadas por cada tipo de vegetación?
 
 
-**## Descripción del dataset y origen** 
+## Descripción del dataset y origen 
 
 ### Estructura del Dataset
 
@@ -64,7 +64,7 @@ Intencional (%): Porcentaje de incendios causados por negligencia (Numérico)
 Natural (%): Porcentaje de incendios atribuidos a causas naturales (Numérico)
 Desconocida (%): Porcentaje de incendios sin causa identificada (Numérico)
 
-**### Descripción**: Al elegir el tema del proyecto, el único dataset que encontré en la web registraba todos los datos anuales por lo que, para hacerlo mas completo, me tomé el trabajo de hacer un nuevo dataset de registro mensual compilando datos que se encuentran en [argentina.gob.ar/ambiente](https://www.argentina.gob.ar/ambiente/bosques/estadistica-forestal)
+### Descripción: Al elegir el tema del proyecto, el único dataset que encontré en la web registraba todos los datos anuales por lo que, para hacerlo mas completo, me tomé el trabajo de hacer un nuevo dataset de registro mensual compilando datos que se encuentran en [argentina.gob.ar/ambiente](https://www.argentina.gob.ar/ambiente/bosques/estadistica-forestal)
 
 Project Organization
 ------------
